@@ -6,79 +6,73 @@ title: Spencer Howe's Resume
 Current Data Science major at Brigham Young University-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="how20040@byui.edu">how20040@byui.edu</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+## Skills And Experience
+-Python w/ Altair & Pandas	  	
+-SQL						
+-R Studio
+-Data Wrangling			        
+-Supply Management			
+-C++
+-MS Office				        
+-Bilingual (Spanish)        
+-Power Equipment
+
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2023`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Data Science Major with 3.4 GPA
 
 
-## Related Experience
 
-### Internships
+## Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Warehouse Worker
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`2021`
+__Target Distribution Center__, Madison, AL
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+•	Utilized forklift to retrieve individual orders to ship to 80 different stores
+•	Employed computer system to help keep track of labels and locations
+•	Managed supply quantity and location to aid fellow workers prevent time loss
+•	Reported errors or misplaced product to help streamline work process
 
 
-## Service and Work History
+### Construction Laborer
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2020`
+__Hensel Phelps__, Hunstville, AL
+
+•	Implemented training with various power tools to create constructs for several projects on site
+•	Operated heavy machinery while having to coordinate and work with fellow crew members
+•	Learned and followed safety protocols to avoid injury and to aid others in using safe working practices
+
+### Data Entry Clerk
+
+`2017-2018`
+__PowerBookMedic__, Huntsville, AL
+
+•	Configured and debugged smartphone data (Android, Blackberry, MS) using security firmware and software; processed incoming inventory/product into company database
+•	Analyzed product data and applied unique formulae to generate pricing to meet profit margin standards/goals (Excel)
+
+
+## Volunteer Work 
+
 
 
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, Huancayo, Peru
+
+•	Trained groups of 30-35 people in implementation of new digital reporting system and applications
+•	Planned and executed weekly conferences to increase efficiency in proselyting and reporting activities
+
 
 
 
